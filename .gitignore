@@ -1,0 +1,12 @@
+data/
+logs/
+result/
+test/
+*.h5
+#*.ipynb
+flow_pipeline_counting.py
+flow_pipeline_name_check.py
+flow_pipeline_ssmtl.py
+flow_pipeline_test.py
+flow_ae.ipynb
+시험.ipynb
